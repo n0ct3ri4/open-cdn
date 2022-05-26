@@ -1,0 +1,40 @@
+{
+  "name": "opencdn",
+  "version": "1.0.1",
+  "description": "Open your CDN faster than the light!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/OpenCDN.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "cdn",
+    "open",
+    "opencdn",
+    "content",
+    "delivery",
+    "network",
+    "server",
+    "express",
+    "http",
+    "https",
+    "packages"
+  ],
+  "author": "n0ct3ri4",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/OpenCDN/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/OpenCDN#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "colors": "1.4.0",
+    "fs": "0.0.1-security"
+  }
+}
